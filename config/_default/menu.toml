@@ -16,9 +16,22 @@ url = "https://github.com/InteragirUDESC"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/company/interagircct"
 
 [social.params]
-icon = "brand-twitter"
+icon = "linkedin"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/interagir.cct/"
+
+[social.params]
+icon = "instagram"
+
+[[social]]
+identifier = "linktree"
+name = "Linktree"
+url = "https://linktr.ee/Interagir_Udesc"
