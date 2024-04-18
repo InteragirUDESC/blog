@@ -10,11 +10,11 @@ customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+lastUpdated = "Jan 02, 2006 15:04 BRT"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "💡"
+subtitle = "Integração entre Ciência, Computação e Sociedade."
 
 [sidebar.avatar]
 enabled = true
