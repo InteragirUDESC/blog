@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://interagirudesc.github.io/blog"
+baseurl = ""
 languageCode = "en-us"
 paginate = 5
 title = "Interagir Blog"
