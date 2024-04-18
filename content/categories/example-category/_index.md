@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Interagir
+description: Projeto de Extensão Interagir
 image:
 
 # Badge style
