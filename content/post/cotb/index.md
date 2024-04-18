@@ -8,7 +8,7 @@ categories:
     - Catarinas
 tags:
     - Meninas Digitais
-weight: 1 
+weight: 2 
 ---
 
 No dia 12 de abril o **Programa de Extensão Interagir** da **UDESC Joinville - Centro de Ciências Tecnológicas**, tivemos o privilégio de participar do workshop e da reunião do **Programa Meninas Digitais** no **Computer on The Beach**, em Balneário Camboriú. Foi uma jornada repleta de inspiração e aprendizado sobre inclusão e diversidade no mundo digital!

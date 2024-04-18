@@ -5,6 +5,8 @@ description: Projeto participa na categoria educação
 categories:
     - Linguesc
 image: cover.jpg
+weight: 2
+
 ---
 
 Nosso projeto **LINGUESC** (Núcleo de Idiomas da Udesc Joinville) foi selecionado como um dos três finalistas do **Prêmio Joinville Faz Bem**, promovido pela NSC TV. Esta prestigiosa premiação, agora em sua quarta edição, é uma parte vital das comemorações dos 173 anos de Joinville, reconhecendo e valorizando aqueles que se destacam na cidade.
